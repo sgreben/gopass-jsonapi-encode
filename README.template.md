@@ -1,6 +1,6 @@
 # ${APP}
 
-Encode JSON as [gopass](github.com/gopasspw/gopass) JSONAPI messages.
+Encode JSON as [gopass](https://github.com/gopasspw/gopass) JSONAPI messages.
 
 `${APP}` reads JSON on stdin and writes JSONAPI messages on stdout.
 

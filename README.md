@@ -40,12 +40,12 @@ Or [download a binary](https://github.com/sgreben/gopass-jsonapi-encode/releases
 
 ```sh
 # Linux
-curl -L https://github.com/sgreben/gopass-jsonapi-encode/releases/download/0.0.2/gopass-jsonapi-encode_0.0.2_linux_x86_64.tar.gz | tar xz
+curl -L https://github.com/sgreben/gopass-jsonapi-encode/releases/download/0.0.3/gopass-jsonapi-encode_0.0.3_linux_x86_64.tar.gz | tar xz
 
 # OS X
-curl -L https://github.com/sgreben/gopass-jsonapi-encode/releases/download/0.0.2/gopass-jsonapi-encode_0.0.2_osx_x86_64.tar.gz | tar xz
+curl -L https://github.com/sgreben/gopass-jsonapi-encode/releases/download/0.0.3/gopass-jsonapi-encode_0.0.3_osx_x86_64.tar.gz | tar xz
 
 # Windows
-curl -LO https://github.com/sgreben/gopass-jsonapi-encode/releases/download/0.0.2/gopass-jsonapi-encode_0.0.2_windows_x86_64.zip
-unzip gopass-jsonapi-encode_0.0.2_windows_x86_64.zip
+curl -LO https://github.com/sgreben/gopass-jsonapi-encode/releases/download/0.0.3/gopass-jsonapi-encode_0.0.3_windows_x86_64.zip
+unzip gopass-jsonapi-encode_0.0.3_windows_x86_64.zip
 ```

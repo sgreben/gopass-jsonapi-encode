@@ -1,4 +1,4 @@
-VERSION = 0.0.2
+VERSION = 0.0.3
 
 APP      := gopass-jsonapi-encode
 PACKAGES := $(shell go list -f {{.Dir}} ./...)
